@@ -38,3 +38,8 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+angular-forms.iml
+bower.json
+bower_components/
+/src/components/
+src/components/
